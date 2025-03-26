@@ -1,5 +1,7 @@
-## 网址
+## 简介
 官网：https://minerx.vip/
+
+minerX 是一个类 hiveOS 系统，可以用于管理矿机
 
 
 
