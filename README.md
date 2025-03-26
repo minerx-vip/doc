@@ -1,12 +1,12 @@
 # 简介
 
-官网：https://minerx.vip/
+官网：https://minerx.vip
 
 minerX 是一个类 hiveOS 系统，可以用于管理矿机
 
 不需要重做系统，使用现有系统安装客户端即可。
 
-Telegram：https://minerx_vip.t.me/
+Telegram：https://minerx_vip.t.me
 
 
 
