@@ -10,6 +10,8 @@ After logging into the system, click on a specific miner, then select the `Miner
 
 First, connect to the command-line interface of the miner, then enter the following command to view the logs.
 
+Introduction to Methods for Connecting to Miner via SSH：https://gitee.com/minerx-vip/doc/blob/main/help/help_ssh_en.md
+
 There are two ways to access the miner's command-line interface.
 
 ```sh
