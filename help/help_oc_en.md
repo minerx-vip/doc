@@ -72,3 +72,37 @@ It allows convenient configuration of different overclocking settings for each G
 
 
 ![image-20250403145241066](../images/image-20250403145241066.png)
+
+
+
+#### 4.Apply Overclocking Only Without Running a Flight Sheet
+
+This flight sheet applies only the overclocking settings from the template and does **not** launch any mining workload.
+
+Recommended for scenarios where you want to centrally manage overclocking, but run other workloads manually.
+
+Create a wallet using the following information, then import the flight sheet:
+
+- **Coin**: IDLE
+
+- **Wallet Address**: IDLE
+
+- **Wallet Name**: IDLE
+
+```json
+{
+    "flightName": "Idle",
+    "descMsg": "Idle",
+    "digitalCash": "IDLE",
+    "miningPool": "1",
+    "miningConfig": "Custom",
+    "disableFaultCard": false,
+    "customConfig": {
+        "customMiner": "idle",
+        "customInstallUrl": "https://minerx-download.oss-cn-shanghai.aliyuncs.com/idle/idle-1.0.2.tar.gz",
+        "customAlgo": "---",
+        "customTemplate": "%WAL%.%WORKER_NAME%"
+    }
+}
+```
+

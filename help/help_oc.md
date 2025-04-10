@@ -73,3 +73,36 @@
 
 ![image-20250403145241066](../images/image-20250403145241066.png)
 
+
+
+#### 4.不想使用飞行表，但想应用超频参数
+
+该飞行表仅应用超频模板中的超频参数，不会实际运行任何负载。
+
+适用于希望统一管理超频设置，但又计划手动运行其他任务的场景。
+
+请按以下信息创建钱包，并导入飞行表：
+
+- 数字货币：IDLE
+- 钱包地址：IDLE
+- 钱包名称：IDLE
+
+
+
+```json
+{
+    "flightName": "Idle",
+    "descMsg": "Idle",
+    "digitalCash": "IDLE",
+    "miningPool": "1",
+    "miningConfig": "Custom",
+    "disableFaultCard": false,
+    "customConfig": {
+        "customMiner": "idle",
+        "customInstallUrl": "https://minerx-download.oss-cn-shanghai.aliyuncs.com/idle/idle-1.0.2.tar.gz",
+        "customAlgo": "---",
+        "customTemplate": "%WAL%.%WORKER_NAME%"
+    }
+}
+```
+
