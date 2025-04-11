@@ -21,7 +21,7 @@ minerX 采用邀请制，必须有邀请码才能注册
 ## 我们的优势
 
 - 全面兼容
-  - 兼容 **HiveOS**、**Ubuntu** 等主流 Linux 发行版，无缝切换体验。
+  - 兼容 **HiveOS**、**Ubuntu**、WSL、容器环境和各种云主机，无需重新安装操作系统，一键安装即刻体验。
   - 最新更新，**兼容云常用云主机管理**。以下几个已经经过测试
     - https://www.gpushare.com/
     - https://clore.ai/
