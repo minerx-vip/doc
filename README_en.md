@@ -6,7 +6,11 @@ minerX is a HiveOS-like system designed for managing mining rigs.
 
 No need to reinstall the OS — simply install the client on your existing system.
 
-Telegram: https://minerx_vip.t.me
+Telegram：https://t.me/minerx_vip
+
+Telegram Group：https://t.me/minerX_group
+
+
 
 ## About Account Registration
 
