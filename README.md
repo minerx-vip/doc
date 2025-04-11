@@ -4,7 +4,7 @@
 
 minerX 是一个类 hiveOS 系统，可以用于管理矿机
 
-不需要重做系统，使用现有系统安装客户端即可。
+不需要重做系统，兼容 HiveOS、原生 Ubuntu、WSL、容器及各类云环境的矿机管理系统。
 
 Telegram：https://minerx_vip.t.me
 
