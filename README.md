@@ -58,5 +58,3 @@ minerX 采用邀请制，必须有邀请码才能注册
 
 查看锄头日志：https://gitee.com/minerx-vip/doc/blob/main/help/help_check_logs.md
 
-
-
