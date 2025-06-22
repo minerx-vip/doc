@@ -10,15 +10,16 @@ Mining farms will be disabled 3 days after payment is overdue
 
 #### Billing Rules
 
-| GPU Count | Fee         |
-| --------- | ----------- |
-| 0         | $0.25/month |
-| 1         | $0.25/month |
-| 2         | $0.5/month  |
-| 3         | $0.75/month |
-| 4         | $1/month    |
-| 5         | $1.25/month |
-| 6+        | $1.5/month  |
+| GPU Count                         | Fee         |
+| --------------------------------- | ----------- |
+| Pure CPU machine, with <= 4 cores | $0.20/month |
+| 0                                 | $0.25/month |
+| 1                                 | $0.25/month |
+| 2                                 | $0.5/month  |
+| 3                                 | $0.75/month |
+| 4                                 | $1/month    |
+| 5                                 | $1.25/month |
+| 6+                                | $1.5/month  |
 
 
 #### Discounts
