@@ -21,8 +21,11 @@ Mining farms will be disabled 3 days after payment is overdue
 | 5                                 | $1.25/month |
 | 6+                                | $1.5/month  |
 
-
 #### Discounts
+
+> The machine count is calculated based on the total number of machines across all farms created under the current account.
+>
+> Machines from farms managed through authorization are not included.
 
 | Number of Machines | Discount |
 | ------------------ | -------- |
