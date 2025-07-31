@@ -29,7 +29,7 @@ Mining farms will be disabled 3 days after payment is overdue
 
 | Number of Machines | Discount |
 | ------------------ | -------- |
-| Up to 3            | Free     |
+| Up to 5            | Free     |
 | 50+                | 10%      |
 | 100+               | 20%      |
 | 250+               | 30%      |
