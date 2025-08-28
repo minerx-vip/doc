@@ -50,7 +50,7 @@
     "disableFaultCard": false,
     "customConfig": {
         "customMiner": "qubic_auto",
-        "customInstallUrl": "https://minerx-download.oss-cn-shanghai.aliyuncs.com/qubic/qubic_auto-1.0.9.tar.gz",
+        "customInstallUrl": "http://114.215.172.228:8899/qubic/qubic_auto-1.0.11.tar.gz",
         "customAlgo": "---",
         "customTemplate": "%WORKER_NAME%",
         "customUrl": "",
