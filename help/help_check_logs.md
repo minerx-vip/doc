@@ -12,7 +12,7 @@
 
 先连接矿机的命令行界面，然后输入以下命令查看
 
-连接矿机 SSH 方法介绍：https://gitee.com/minerx-vip/doc/blob/main/help/help_ssh.md
+连接矿机 SSH 方法介绍：https://github.com/minerx-vip/doc/blob/main/help/help_ssh.md
 
 有两种方式可以连接矿机的命令行界面
 

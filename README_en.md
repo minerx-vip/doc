@@ -16,7 +16,7 @@ Telegram Group：https://t.me/minerX_group
 
 minerX uses an invite-only system. You must have an invitation code to register.
 
-About Fees: https://github.com/minerx-vip/doc/blob/main/help/help_fee.md
+About Fees: https://github.com/minerx-vip/doc/blob/main/help/help_fee_en.md
 
 ## Our Advantages
 

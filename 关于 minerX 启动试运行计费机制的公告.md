@@ -14,9 +14,9 @@
 
 #### 试运行期间充值赠送活动
 
-💬 收费说明与奖励标准请参考：https://gitee.com/minerx-vip/doc/blob/main/help/help_fee.md
+💬 收费说明与奖励标准请参考：https://github.com/minerx-vip/doc/blob/main/help/help_fee.md
 
-💬 充值方式介绍：https://gitee.com/minerx-vip/doc/blob/main/help/recharge_guide.md
+💬 充值方式介绍：https://github.com/minerx-vip/doc/blob/main/help/recharge_guide.md
 
 为回馈用户支持，我们特别推出限时 **充值加赠活动**：
 
