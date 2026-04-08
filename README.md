@@ -16,7 +16,7 @@ Telegram 加群：https://t.me/minerX_group
 
 minerX 采用邀请制，必须有邀请码才能注册
 
-关于收费：https://gitee.com/minerx-vip/doc/blob/main/help/help_fee.md
+关于收费：https://github.com/minerx-vip/doc/blob/main/help/help_fee.md
 
 
 
@@ -48,13 +48,13 @@ minerX 采用邀请制，必须有邀请码才能注册
 
 # 使用说明
 
-安装：https://gitee.com/minerx-vip/doc/blob/main/help/help_install.md
+安装：https://github.com/minerx-vip/doc/blob/main/help/help_install.md
 
-飞行表使用：https://gitee.com/minerx-vip/doc/blob/main/help/help_flight.md
+飞行表使用：https://github.com/minerx-vip/doc/blob/main/help/help_flight.md
 
-超频使用：https://gitee.com/minerx-vip/doc/blob/main/help/help_oc.md
+超频使用：https://github.com/minerx-vip/doc/blob/main/help/help_oc.md
 
-通过 SSH 连接矿机：https://gitee.com/minerx-vip/doc/blob/main/help/help_ssh.md
+通过 SSH 连接矿机：https://github.com/minerx-vip/doc/blob/main/help/help_ssh.md
 
-查看锄头日志：https://gitee.com/minerx-vip/doc/blob/main/help/help_check_logs.md
+查看锄头日志：https://github.com/minerx-vip/doc/blob/main/help/help_check_logs.md
 

@@ -16,7 +16,7 @@ Telegram Group：https://t.me/minerX_group
 
 minerX uses an invite-only system. You must have an invitation code to register.
 
-About Fees: https://gitee.com/minerx-vip/doc/blob/main/help/help_fee.md
+About Fees: https://github.com/minerx-vip/doc/blob/main/help/help_fee.md
 
 ## Our Advantages
 
@@ -46,15 +46,15 @@ About Fees: https://gitee.com/minerx-vip/doc/blob/main/help/help_fee.md
 
 # User Guide
 
-Installation: https://gitee.com/minerx-vip/doc/blob/main/help/help_install_en.md
+Installation: https://github.com/minerx-vip/doc/blob/main/help/help_install_en.md
 
-Using Flight Sheets: https://gitee.com/minerx-vip/doc/blob/main/help/help_flight_en.md
+Using Flight Sheets: https://github.com/minerx-vip/doc/blob/main/help/help_flight_en.md
 
-Overclocking: https://gitee.com/minerx-vip/doc/blob/main/help/help_oc_en.md
+Overclocking: https://github.com/minerx-vip/doc/blob/main/help/help_oc_en.md
 
-Connect to Miner via SSH: https://gitee.com/minerx-vip/doc/blob/main/help/help_ssh_en.md
+Connect to Miner via SSH: https://github.com/minerx-vip/doc/blob/main/help/help_ssh_en.md
 
-View Miner Logs: https://gitee.com/minerx-vip/doc/blob/main/help/help_check_logs_en.md
+View Miner Logs: https://github.com/minerx-vip/doc/blob/main/help/help_check_logs_en.md
 
 
 
